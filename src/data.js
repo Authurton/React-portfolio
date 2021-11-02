@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "Vue & Django",
-    subtitle: "Django & Vue ecommorce",
+    title: "Neflix clone",
+    subtitle: "React and firebase",
     description:
-      "Ecommerce app",
-    image: "./vue-store.png",
-    link: "https://github.com/Authurton",
+      "Netflix frontend clone",
+    image: "./netflix.png",
+    link: "https://netflix-app-clone-b4563.web.app/",
   },
   {
     title: "Vue Trader app",
