@@ -14,7 +14,17 @@ export const projects = [
       "Trading platform app build using vue and vuex.",
     image: "./trader1.png",
     link: "http://trader-app.s3-website.us-east-2.amazonaws.com",
+  }, 
+  
+  {
+    title: "Facebook Messenger Clone",
+    subtitle: "React and Firebase",
+    description:
+      "Chatting platform where you can interact with friends and family",
+    image: "./messenger.png",
+    link: "https://messenger-clone-a2949.web.app/",
   },
+
   {
     title: "DevChat",
     subtitle: "React and Firebase",
