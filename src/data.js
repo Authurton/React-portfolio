@@ -41,6 +41,15 @@ export const projects = [
     image: "./roomza1.png",
     link: "https://www.warmwelcome.co.za/",
   },
+  {
+    title: "LMS Store",
+    subtitle: "C# and React",
+    description:
+      "Universities can sell courses that are available on Moodle",
+    image: "./roomza1.png",
+    link: "https://ceg.demo.maraka.co.za/",
+  },
+
 ];
 
 export const testimonials = [
