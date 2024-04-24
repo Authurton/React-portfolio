@@ -39,7 +39,7 @@ export const projects = [
     description:
       "Rental app built using django and bootstrap",
     image: "./roomza1.png",
-    link: "https://Authurton1287.pythonanywhere.com",
+    link: "https://www.warmwelcome.co.za/",
   },
 ];
 
@@ -70,6 +70,7 @@ export const skills = [
   "Python",
   "Django",
   "Django RestFramework",
+  "C#"
   
   
 
