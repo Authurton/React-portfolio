@@ -70,7 +70,7 @@ export const skills = [
   "Python",
   "Django",
   "Django RestFramework",
-  "C#"
+  "C#",
   
   
 
