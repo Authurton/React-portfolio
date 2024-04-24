@@ -46,7 +46,7 @@ export const projects = [
     subtitle: "C# and React",
     description:
       "Universities can sell courses that are available on Moodle",
-    image: "./roomza1.png",
+    image: "./ceg_login.png",
     link: "https://ceg.demo.maraka.co.za/",
   },
 
